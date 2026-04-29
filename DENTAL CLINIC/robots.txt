@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# If you publish this site to a domain, update the sitemap URL below.
+Sitemap: https://dechavezmerindo.com/sitemap.xml
